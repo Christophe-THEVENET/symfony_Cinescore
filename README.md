@@ -20,7 +20,7 @@ application de critique de films pour revoir les bases de SYMFONY
 ## get started
 
 ```console
-git clone https://github.com/Christophe-THEVENET/cinescore.git
+git clone https://github.com/Christophe-THEVENET/symfony_cinescore.git
 ```
 
 ```console
